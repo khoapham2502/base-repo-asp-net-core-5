@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kelvin.Core\Kelvin.Core.csproj" />
+    <ProjectReference Include="..\Kelvin.Database\Kelvin.Database.csproj" />
+  </ItemGroup>
+
+</Project>
